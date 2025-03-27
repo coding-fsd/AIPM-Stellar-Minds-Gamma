@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+ollama
+autogen
+llama-index
+faiss-cpu
+matplotlib
+plotly
+scipy
