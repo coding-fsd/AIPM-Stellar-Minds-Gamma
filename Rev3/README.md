@@ -23,8 +23,8 @@ A CLI-based multivariate time series similarity and annotation agent that uses t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/time-series-agent.git
-   cd time-series-agent
+   git clone https://github.com/coding-fsd/AIPM-Stellar-Minds-Gamma.git
+   cd Rev3
    ```
 
 2. Create a `dataset` folder in the project root and place your time series CSV files there:
